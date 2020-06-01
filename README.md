@@ -1,2 +1,6 @@
 # hackerrank-solution1
-solutions
+solutions to hackerank problem
+
+1mysql
+2-c
+3 c++
